@@ -86,4 +86,6 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes.
 4. Submit a pull request.
 
+---
+
 For any issues or suggestions, feel free to open an issue or contact me.
